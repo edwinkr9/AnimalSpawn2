@@ -1,0 +1,27 @@
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servidores\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.deps.json
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csprojAssemblyReference.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.AssemblyInfo.cs
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpawn.Domain\obj\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb

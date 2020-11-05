@@ -1,0 +1,24 @@
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.deps.json
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csprojAssemblyReference.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CopyComplete
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb
+C:\Users\Fernando\Desktop\UTM\Cuatrimestre 4\Aplicacion Web Orientada a Servicios\Parcial 1\AnimalSpawn\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.deps.json
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.dll
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\bin\Debug\netcoreapp3.1\AnimalSpawn.Domain.pdb
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csprojAssemblyReference.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.AssemblyInfoInputs.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.AssemblyInfo.cs
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CoreCompileInputs.cache
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.csproj.CopyComplete
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.dll
+C:\Users\edwin\Desktop\PracticaDelAula-master\PracticaDelAula-master\AnimalSpwam.Aplication\obj\Debug\netcoreapp3.1\AnimalSpwam.Application.pdb
